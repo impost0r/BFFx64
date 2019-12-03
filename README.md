@@ -4,6 +4,8 @@ CERT's Basic Fuzzing Framework, but 64 bit.
 Yet to be done - all code except that created by the fine people at CERT is LGPL3.
 This is probably gonna be pretty janky - will put together when I wake up.
 
+## Disclaimer
+I am in no way affiliated with CERT, the original developers of this software, or of the authors of the Python modules or the site (below) that hosts them. I'm just a pissed off developer who hacked a solution together.
 
 ### Why?
 
